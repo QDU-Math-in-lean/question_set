@@ -1,0 +1,9 @@
+/.lake
+/.history
+/.vscode
+/.description
+
+/description/*.aux
+/description/*.log
+/description/*.synctex.gz
+
